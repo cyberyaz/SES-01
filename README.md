@@ -1,4 +1,5 @@
 Daisy Seed Generative Ambient Synth
+
 Generative ambient synthesizer built on the Daisy Seed microcontroller using
 DaisyDuino. Randomly walks through a quantized scale, filtered and degraded
 into texture. No input needed.
